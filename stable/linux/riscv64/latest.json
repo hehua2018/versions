@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30039/Void-linux-riscv64-1.99.30039.tar.gz",
-  "name": "1.99.30039",
-  "version": "da425ab0fe34edfc3c082367edff7e05e0719b2d",
-  "productVersion": "1.99.30039.0",
-  "hash": "4fd153cc588cd7f4b1ce03350349ccb4e62f8c3b",
-  "timestamp": "1749516608245",
-  "sha256hash": "0caba10b9b81983f1df8cbc9350536b2985b6d203a36e40ce7332d9898c80fc9"
+  "url": "https://github.com/voideditor/binaries/releases/download/1.99.30040/Void-linux-riscv64-1.99.30040.tar.gz",
+  "name": "1.99.30040",
+  "version": "d1adb8b0fcb4501b86d20f79b33c004530474f3c",
+  "productVersion": "1.99.30040.0",
+  "hash": "65c703056466712e8ea08f91eccef0bc161ce7cb",
+  "timestamp": "1750544192391",
+  "sha256hash": "0c88132ab4d770665bc5ce69a9c7029149b745f2a68af2712a3ab4bd4b508e0d"
 }
