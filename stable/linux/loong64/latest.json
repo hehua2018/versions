@@ -1,9 +1,9 @@
 {
   "url": "https://github.com/hehua2018/binaries/releases/download/1.99.30044/Void-linux-loong64-1.99.30044.tar.gz",
   "name": "1.99.30044",
-  "version": "a7f6c2424a9cb5c92f30e30ec6bd3db3bd98f68f",
+  "version": "0a61d5daa11c2d0929e8688cb1cfb8345960ca63",
   "productVersion": "1.99.30044.0",
-  "hash": "4cbec81090d9212dbae0302ab8f0459d55dda05e",
-  "timestamp": "1752732337368",
-  "sha256hash": "756338749b075fe68d25337a7e42d79c8b531e29ae042fde1b01899ba60ff7fd"
+  "hash": "5249b748d4fcd026066c9b59b7f29f1cd498d0eb",
+  "timestamp": "1752736535547",
+  "sha256hash": "79ce8f23753eaadc0c6ee45f2725c19118701baafa99a6066ad021137b247598"
 }
