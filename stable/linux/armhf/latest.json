@@ -1,9 +1,9 @@
 {
   "url": "https://github.com/hehua2018/binaries/releases/download/1.99.30044/Void-linux-armhf-1.99.30044.tar.gz",
   "name": "1.99.30044",
-  "version": "a7f6c2424a9cb5c92f30e30ec6bd3db3bd98f68f",
+  "version": "0a61d5daa11c2d0929e8688cb1cfb8345960ca63",
   "productVersion": "1.99.30044.0",
-  "hash": "696e18f3a98655bb3ad149a4c2960e22f07a0959",
-  "timestamp": "1752732820168",
-  "sha256hash": "02632199f618150e902b88673bd9879bf5cd5e1ce72ef893a981b585ef0f3f5c"
+  "hash": "568ceca9d7774543bd7aa2f9c16b1235f8a4c52b",
+  "timestamp": "1752737036046",
+  "sha256hash": "fa04e881b73d274459b21549c407354789607e029250d28bacd9c2888a628fc3"
 }
