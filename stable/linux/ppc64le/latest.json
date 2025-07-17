@@ -1,9 +1,9 @@
 {
   "url": "https://github.com/hehua2018/binaries/releases/download/1.99.30044/Void-linux-ppc64le-1.99.30044.tar.gz",
   "name": "1.99.30044",
-  "version": "a7f6c2424a9cb5c92f30e30ec6bd3db3bd98f68f",
+  "version": "0a61d5daa11c2d0929e8688cb1cfb8345960ca63",
   "productVersion": "1.99.30044.0",
-  "hash": "be8e78cdc36ecdaa2af8d8262ec1086f1d301356",
-  "timestamp": "1752732347759",
-  "sha256hash": "f5d62e1d7c021b657d8be78c760293e707ff391fd961c3878861b80a00cc7b99"
+  "hash": "6d4ff5eea8de8a7e898951483c5ee4a9f4e8657c",
+  "timestamp": "1752736563861",
+  "sha256hash": "d77716551c09ddbc18a36ac7349262f42bda1d22de1864fd19d1348f1dd8eb1e"
 }
