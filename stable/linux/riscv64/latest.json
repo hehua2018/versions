@@ -1,9 +1,9 @@
 {
   "url": "https://github.com/hehua2018/binaries/releases/download/1.99.30044/Void-linux-riscv64-1.99.30044.tar.gz",
   "name": "1.99.30044",
-  "version": "a7f6c2424a9cb5c92f30e30ec6bd3db3bd98f68f",
+  "version": "0a61d5daa11c2d0929e8688cb1cfb8345960ca63",
   "productVersion": "1.99.30044.0",
-  "hash": "2b5d19c661b6fec4c7a2ef76e4bc31b4323d96df",
-  "timestamp": "1752732335360",
-  "sha256hash": "c8ba03e22522d1c49617a5edaec14ea7bffe881cb2ade4d9f908b19e9679db71"
+  "hash": "e50a3f9f4d1926e627a6bb866223bbc4d93ed245",
+  "timestamp": "1752736523631",
+  "sha256hash": "764ac98a384d14974c3a1f8818dd16e731761f34557ac043669801cf462d5449"
 }
